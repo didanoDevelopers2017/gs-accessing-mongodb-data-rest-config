@@ -1,5 +1,5 @@
 # gs-accessing-mongodb-data-rest-config
-this demo show springboot with simple mongo db config
+this demo show create a mongodb db mydb,and the mongo db config with springboot
 
 1，get spring demo "Accessing MongoDB Data with REST"
 https://spring.io/guides/gs/accessing-mongodb-data-rest/
